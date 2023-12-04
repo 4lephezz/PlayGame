@@ -1,0 +1,14 @@
+body{
+    background-image: url(fotos/Design\ sem\ nome\ \(4\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 940px;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+    height: auto;
+}
